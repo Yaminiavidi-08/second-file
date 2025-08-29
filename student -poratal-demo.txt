@@ -3,5 +3,7 @@ college name=Aditya degree college for women
 course name=Bsc-cs2
 suc code=2347390334
 roll no=92
+phone no=99999999999
 email=adityakkd@gmail.com
+
 address=kakinada
